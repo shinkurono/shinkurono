@@ -2,8 +2,6 @@
 
 I'm a recent graduate from NUS Computing with a Bachelor's in Business Analytics.
 
-![alt text](https://www.comp.nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png)
-
 I’m very much interested in in the world of big data, how data correlates with each other and drives the world forward in the pursuit of achievements. Feel free to look at my github in order to see what past projects I have done.
 
 I’m currently learning Dash in order to further develop my web development skills as well as learning advanced web visualisation techniques.
