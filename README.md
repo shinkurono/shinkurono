@@ -1,6 +1,6 @@
 # Hi, I’m Yang Zhenyan
 
-I'm a graduating student from NUS Computing with a Bachelor's in Business Analytics.
+I'm a recent graduate from NUS Computing with a Bachelor's in Business Analytics.
 
 ![alt text](https://www.comp.nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png)
 
