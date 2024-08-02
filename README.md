@@ -1,7 +1,5 @@
 # Hi, I’m Yang Zhenyan
 
-I'm a recent graduate from NUS Computing with a Bachelor's in Business Analytics.
-
 I’m very much interested in in the world of big data, how data correlates with each other and drives the world forward in the pursuit of achievements. Feel free to look at my github in order to see what past projects I have done.
 
 <!---
